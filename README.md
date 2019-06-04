@@ -1,2 +1,2 @@
 # Morpion
-Un jeu du morpion coder en java avec l'API javafx
+Un jeu du morpion codé en java avec l'API javafx
